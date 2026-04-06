@@ -21,7 +21,7 @@ const getResponse = (input: string): string => {
   for (const [key, value] of Object.entries(botResponses)) {
     if (key !== "default" && lower.includes(key)) return value;
   }
-  return "شكراً لتواصلك! سيقوم فريقنا بالرد عليك قريباً. يمكنك أيضاً الاتصال بنا مباشرة على return "شكراً لتواصلك! سيقوم فريقنا بالرد عليك قريباً. يمكنك أيضاً الاتصال بنا مباشرة على +966 55 482 7193 📱";";
+  return "شكراً لتواصلك! سيقوم فريقنا بالرد عليك قريباً. يمكنك أيضاً الاتصال بنا مباشرة على +966 55 482 7193 📱";
 };
 
 const ChatBot = () => {
