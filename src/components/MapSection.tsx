@@ -64,7 +64,7 @@ const MapSection = () => {
             </div>
             <p className="text-sm text-muted-foreground">الرياض، حي العليا، شارع الأمير محمد بن عبدالعزيز</p>
             <a
-              href="https://maps.google.com/?q=24.7136,46.6753"
+              href="https://maps.google.com/?q=24.6950,46.6850"
               target="_blank"
               rel="noopener noreferrer"
               className="mt-3 block text-center gold-gradient text-primary-foreground py-2 rounded-lg text-sm font-semibold hover:scale-[1.02] transition-transform"
