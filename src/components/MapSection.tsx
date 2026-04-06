@@ -41,7 +41,7 @@ const MapSection = () => {
 
         <div className="map-content relative rounded-2xl overflow-hidden shadow-2xl border border-border">
           <iframe
-            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d463878.0254471858!2d46.54271379781693!3d24.725195894498673!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e2f03890d489399%3A0xba974d1c98e79fd5!2sRiyadh%20Saudi%20Arabia!5e0!3m2!1sar!2s!4v1710000000000!5m2!1sar!2s"
+            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3624.574890372498!2d46.6850!3d24.6950!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e2f05700e3ccc4f%3A0x985e36548e6363!2sAl%20Olaya%2C%20Riyadh!5e0!3m2!1sar!2ssa!4v1710000000000!5m2!1sar!2ssa"
             width="100%"
             height="450"
             style={{ border: 0 }}
@@ -64,7 +64,7 @@ const MapSection = () => {
             </div>
             <p className="text-sm text-muted-foreground">الرياض، حي العليا، شارع الأمير محمد بن عبدالعزيز</p>
             <a
-              href="https://maps.google.com/?q=24.7136,46.6753"
+              href="https://maps.google.com/?q=24.6950,46.6850"
               target="_blank"
               rel="noopener noreferrer"
               className="mt-3 block text-center gold-gradient text-primary-foreground py-2 rounded-lg text-sm font-semibold hover:scale-[1.02] transition-transform"
